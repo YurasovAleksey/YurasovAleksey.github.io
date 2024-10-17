@@ -1,0 +1,17 @@
+body {
+    background-color: #ba55d3;
+    line-height: 1.5;
+    width: 980px;
+    color:azure;
+
+}
+
+h1 {
+    text-align: center;
+    font-size: 36px;
+}
+
+main>h2 {
+    text-align: center;
+    font-size: 24px;
+}
